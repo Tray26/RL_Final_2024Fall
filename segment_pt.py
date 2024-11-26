@@ -1,5 +1,6 @@
 import torch
 import numpy as np
+import os
 
 def load_data(file_path):
     return torch.load(file_path)
@@ -18,19 +19,24 @@ def partition_data(data, fraction=0.25):
         partitioned_data[key] = value[indices]
     return partitioned_data
 
-def main():
+def main(env_name, data_dir, partition):
     # Load the datasets
-    data = load_data('expert_datasets/pick.pt')
+    data = load_data(os.path.join(data_dir, f"{env_name}.pt"))
     # print(data2['trajectories']['obs'])
 
     # Cut the datasets
-    cut_data = partition_data(data, fraction=0.75)
+    print(partition/100)
+    cut_data = partition_data(data, fraction=partition/100)
 
     # Save the combined dataset
-    save_data(cut_data, 'expert_datasets/picks/pick75.pt')
+    # save_data(cut_data, '../expert_datasets/picks/pick75.pt')
+    save_data(cut_data, os.path.join(data_dir, env_name, f"{env_name}{partition}.pt"))
 
     print('CUT')
     # print("Datasets cut and saved to 'expers_datasets/ants/ant25.pt'")
 
 if __name__ == "__main__":
-    main()
+    env_name="pick"
+    data_dir='../expert_datasets'
+    partition = 75
+    main(env_name, data_dir, partition)
