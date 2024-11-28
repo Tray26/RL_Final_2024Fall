@@ -1,0 +1,880 @@
+{
+    "step100seed0.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 0,
+        "mse": 0.6137994890703186
+    }
+}
+{
+    "step100seed50.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 50,
+        "mse": 0.613625131290038
+    }
+}
+{
+    "step100seed100.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 100,
+        "mse": 0.6137831422845281
+    }
+}
+{
+    "step100seed150.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 150,
+        "mse": 0.6138908149313548
+    }
+}
+{
+    "step100seed200.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 200,
+        "mse": 0.6140526249257465
+    }
+}
+{
+    "step100seed250.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 250,
+        "mse": 0.613832794385538
+    }
+}
+{
+    "step100seed300.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 300,
+        "mse": 0.613755739390154
+    }
+}
+{
+    "step100seed350.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 350,
+        "mse": 0.6136480314417769
+    }
+}
+{
+    "step100seed400.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 400,
+        "mse": 0.6137038105890376
+    }
+}
+{
+    "step100seed450.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 450,
+        "mse": 0.6140061787013602
+    }
+}
+{
+    "step100seed500.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 500,
+        "mse": 0.6139324152086519
+    }
+}
+{
+    "step200seed0.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 0,
+        "mse": 0.8863527848230787
+    }
+}
+{
+    "step200seed50.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 50,
+        "mse": 0.8867244877306427
+    }
+}
+{
+    "step200seed100.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 100,
+        "mse": 0.8870148626795783
+    }
+}
+{
+    "step200seed150.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 150,
+        "mse": 0.8867415982159399
+    }
+}
+{
+    "step200seed200.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 200,
+        "mse": 0.8874003608451727
+    }
+}
+{
+    "step200seed250.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 250,
+        "mse": 0.887000199376858
+    }
+}
+{
+    "step200seed300.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 300,
+        "mse": 0.886960427136139
+    }
+}
+{
+    "step200seed350.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 350,
+        "mse": 0.8865820048195537
+    }
+}
+{
+    "step200seed400.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 400,
+        "mse": 0.8868626548349189
+    }
+}
+{
+    "step200seed450.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 450,
+        "mse": 0.8876855505335706
+    }
+}
+{
+    "step200seed500.pt": {
+        "env_name": "ant",
+        "step": 200,
+        "seed": 500,
+        "mse": 0.886875462615977
+    }
+}
+{
+    "step300seed0.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 0,
+        "mse": 1.000535873906761
+    }
+}
+{
+    "step300seed50.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 50,
+        "mse": 1.001999662348038
+    }
+}
+{
+    "step300seed100.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 100,
+        "mse": 1.0020685975711459
+    }
+}
+{
+    "step300seed150.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 150,
+        "mse": 1.0015059616669169
+    }
+}
+{
+    "step300seed200.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 200,
+        "mse": 1.0026962028378545
+    }
+}
+{
+    "step300seed250.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 250,
+        "mse": 1.0023885247440654
+    }
+}
+{
+    "step300seed300.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 300,
+        "mse": 1.001957159244429
+    }
+}
+{
+    "step300seed350.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 350,
+        "mse": 1.0015941349661883
+    }
+}
+{
+    "step300seed400.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 400,
+        "mse": 1.0015268986024928
+    }
+}
+{
+    "step300seed450.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 450,
+        "mse": 1.0031640552748853
+    }
+}
+{
+    "step300seed500.pt": {
+        "env_name": "ant",
+        "step": 300,
+        "seed": 500,
+        "mse": 1.0018075689040242
+    }
+}
+{
+    "step400seed0.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 0,
+        "mse": 1.1357733688588847
+    }
+}
+{
+    "step400seed50.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 50,
+        "mse": 1.1391880420923066
+    }
+}
+{
+    "step400seed100.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 100,
+        "mse": 1.137327983593381
+    }
+}
+{
+    "step400seed150.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 150,
+        "mse": 1.138164767393405
+    }
+}
+{
+    "step400seed200.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 200,
+        "mse": 1.1388743760274485
+    }
+}
+{
+    "step400seed250.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 250,
+        "mse": 1.1387106029231855
+    }
+}
+{
+    "step400seed300.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 300,
+        "mse": 1.1396079813657893
+    }
+}
+{
+    "step400seed350.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 350,
+        "mse": 1.1379116081514749
+    }
+}
+{
+    "step400seed400.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 400,
+        "mse": 1.136837446104644
+    }
+}
+{
+    "step400seed450.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 450,
+        "mse": 1.1400211389560708
+    }
+}
+{
+    "step400seed500.pt": {
+        "env_name": "ant",
+        "step": 400,
+        "seed": 500,
+        "mse": 1.1371329852871088
+    }
+}
+{
+    "step500seed0.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 0,
+        "mse": 1.4193906088247517
+    }
+}
+{
+    "step500seed50.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 50,
+        "mse": 1.4243375675263836
+    }
+}
+{
+    "step500seed100.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 100,
+        "mse": 1.422973724969924
+    }
+}
+{
+    "step500seed150.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 150,
+        "mse": 1.4233227489999662
+    }
+}
+{
+    "step500seed200.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 200,
+        "mse": 1.4267732785999336
+    }
+}
+{
+    "step500seed250.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 250,
+        "mse": 1.4238886193255833
+    }
+}
+{
+    "step500seed300.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 300,
+        "mse": 1.4278997135346572
+    }
+}
+{
+    "step500seed350.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 350,
+        "mse": 1.421828183564026
+    }
+}
+{
+    "step500seed400.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 400,
+        "mse": 1.4234723303443937
+    }
+}
+{
+    "step500seed450.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 450,
+        "mse": 1.4220612601666547
+    }
+}
+{
+    "step500seed500.pt": {
+        "env_name": "ant",
+        "step": 500,
+        "seed": 500,
+        "mse": 1.4231750039975646
+    }
+}
+{
+    "step600seed0.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 0,
+        "mse": 1.9688606524871766
+    }
+}
+{
+    "step600seed50.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 50,
+        "mse": 1.9711808866137823
+    }
+}
+{
+    "step600seed100.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 100,
+        "mse": 1.9714181397697832
+    }
+}
+{
+    "step600seed150.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 150,
+        "mse": 1.9742032196169523
+    }
+}
+{
+    "step600seed200.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 200,
+        "mse": 1.98652724639929
+    }
+}
+{
+    "step600seed250.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 250,
+        "mse": 1.968523938031946
+    }
+}
+{
+    "step600seed300.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 300,
+        "mse": 1.9707753604505798
+    }
+}
+{
+    "step600seed350.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 350,
+        "mse": 1.968840685625935
+    }
+}
+{
+    "step600seed400.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 400,
+        "mse": 1.9670516499796151
+    }
+}
+{
+    "step600seed450.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 450,
+        "mse": 1.9659486907066799
+    }
+}
+{
+    "step600seed500.pt": {
+        "env_name": "ant",
+        "step": 600,
+        "seed": 500,
+        "mse": 1.9784327174897696
+    }
+}
+{
+    "step700seed0.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 0,
+        "mse": 2.6763852414196907
+    }
+}
+{
+    "step700seed50.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 50,
+        "mse": 2.654953400797077
+    }
+}
+{
+    "step700seed100.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 100,
+        "mse": 2.6742291028569176
+    }
+}
+{
+    "step700seed150.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 150,
+        "mse": 2.646998358317569
+    }
+}
+{
+    "step700seed200.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 200,
+        "mse": 2.6785382482180573
+    }
+}
+{
+    "step700seed250.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 250,
+        "mse": 2.6603366489317897
+    }
+}
+{
+    "step700seed300.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 300,
+        "mse": 2.6788098054037737
+    }
+}
+{
+    "step700seed350.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 350,
+        "mse": 2.6736370072177302
+    }
+}
+{
+    "step700seed400.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 400,
+        "mse": 2.6450472840189323
+    }
+}
+{
+    "step700seed450.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 450,
+        "mse": 2.6428706230035477
+    }
+}
+{
+    "step700seed500.pt": {
+        "env_name": "ant",
+        "step": 700,
+        "seed": 500,
+        "mse": 2.674848909299798
+    }
+}
+{
+    "step800seed0.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 0,
+        "mse": 2.853904754309507
+    }
+}
+{
+    "step800seed50.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 50,
+        "mse": 2.841087429521769
+    }
+}
+{
+    "step800seed100.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 100,
+        "mse": 2.8601617687864302
+    }
+}
+{
+    "step800seed150.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 150,
+        "mse": 2.86278048266093
+    }
+}
+{
+    "step800seed200.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 200,
+        "mse": 2.8629166852535857
+    }
+}
+{
+    "step800seed250.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 250,
+        "mse": 2.8258934403052787
+    }
+}
+{
+    "step800seed300.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 300,
+        "mse": 2.8555325138720837
+    }
+}
+{
+    "step800seed350.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 350,
+        "mse": 2.863021136720228
+    }
+}
+{
+    "step800seed400.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 400,
+        "mse": 2.8297728512054476
+    }
+}
+{
+    "step800seed450.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 450,
+        "mse": 2.823105322201062
+    }
+}
+{
+    "step800seed500.pt": {
+        "env_name": "ant",
+        "step": 800,
+        "seed": 500,
+        "mse": 2.8658726527103635
+    }
+}
+{
+    "step900seed0.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 0,
+        "mse": 2.861756061576122
+    }
+}
+{
+    "step900seed50.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 50,
+        "mse": 2.8575365898406857
+    }
+}
+{
+    "step900seed100.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 100,
+        "mse": 2.885775764907372
+    }
+}
+{
+    "step900seed150.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 150,
+        "mse": 2.8729433043003407
+    }
+}
+{
+    "step900seed200.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 200,
+        "mse": 2.874617743947181
+    }
+}
+{
+    "step900seed250.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 250,
+        "mse": 2.854061111872488
+    }
+}
+{
+    "step900seed300.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 300,
+        "mse": 2.8767061948854176
+    }
+}
+{
+    "step900seed350.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 350,
+        "mse": 2.8713447937760304
+    }
+}
+{
+    "step900seed400.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 400,
+        "mse": 2.8618506924295932
+    }
+}
+{
+    "step900seed450.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 450,
+        "mse": 2.8771072173942276
+    }
+}
+{
+    "step900seed500.pt": {
+        "env_name": "ant",
+        "step": 900,
+        "seed": 500,
+        "mse": 2.8621976614665186
+    }
+}
+{
+    "step1000seed0.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 0,
+        "mse": 2.8665523835453937
+    }
+}
+{
+    "step1000seed50.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 50,
+        "mse": 2.8458640688622863
+    }
+}
+{
+    "step1000seed100.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 100,
+        "mse": 2.8893240352091047
+    }
+}
+{
+    "step1000seed150.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 150,
+        "mse": 2.8611360261262133
+    }
+}
+{
+    "step1000seed200.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 200,
+        "mse": 2.8756017558479057
+    }
+}
+{
+    "step1000seed250.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 250,
+        "mse": 2.87135608059285
+    }
+}
+{
+    "step1000seed300.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 300,
+        "mse": 2.880572597142366
+    }
+}
+{
+    "step1000seed350.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 350,
+        "mse": 2.8680463502540667
+    }
+}
+{
+    "step1000seed400.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 400,
+        "mse": 2.879834982615714
+    }
+}
+{
+    "step1000seed450.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 450,
+        "mse": 2.890312237558005
+    }
+}
+{
+    "step1000seed500.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 500,
+        "mse": 2.886099957382632
+    }
+}

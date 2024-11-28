@@ -1,0 +1,880 @@
+{
+    "step100seed0.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 0,
+        "mse": 0.03852159171641556
+    }
+}
+{
+    "step100seed50.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 50,
+        "mse": 0.03872808749398181
+    }
+}
+{
+    "step100seed100.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 100,
+        "mse": 0.03858009608679286
+    }
+}
+{
+    "step100seed150.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 150,
+        "mse": 0.03857341876351928
+    }
+}
+{
+    "step100seed200.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 200,
+        "mse": 0.03844888180615451
+    }
+}
+{
+    "step100seed250.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 250,
+        "mse": 0.03876829006520937
+    }
+}
+{
+    "step100seed300.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 300,
+        "mse": 0.038431854291551146
+    }
+}
+{
+    "step100seed350.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 350,
+        "mse": 0.0383667629713604
+    }
+}
+{
+    "step100seed400.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 400,
+        "mse": 0.038419193117345485
+    }
+}
+{
+    "step100seed450.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 450,
+        "mse": 0.0386588053459313
+    }
+}
+{
+    "step100seed500.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 500,
+        "mse": 0.03879726117552863
+    }
+}
+{
+    "step200seed0.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 0,
+        "mse": 0.10203218641922222
+    }
+}
+{
+    "step200seed50.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 50,
+        "mse": 0.10213545637041693
+    }
+}
+{
+    "step200seed100.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 100,
+        "mse": 0.1020228478298735
+    }
+}
+{
+    "step200seed150.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 150,
+        "mse": 0.10160158861345689
+    }
+}
+{
+    "step200seed200.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 200,
+        "mse": 0.10148285122761318
+    }
+}
+{
+    "step200seed250.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 250,
+        "mse": 0.10234490243684417
+    }
+}
+{
+    "step200seed300.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 300,
+        "mse": 0.10140017161901914
+    }
+}
+{
+    "step200seed350.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 350,
+        "mse": 0.10123997547568127
+    }
+}
+{
+    "step200seed400.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 400,
+        "mse": 0.10181710576013879
+    }
+}
+{
+    "step200seed450.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 450,
+        "mse": 0.10223748333420807
+    }
+}
+{
+    "step200seed500.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 500,
+        "mse": 0.1023479196495897
+    }
+}
+{
+    "step300seed0.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 0,
+        "mse": 0.22772789760302853
+    }
+}
+{
+    "step300seed50.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 50,
+        "mse": 0.22802642654008198
+    }
+}
+{
+    "step300seed100.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 100,
+        "mse": 0.22799351247477864
+    }
+}
+{
+    "step300seed150.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 150,
+        "mse": 0.226884038917237
+    }
+}
+{
+    "step300seed200.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 200,
+        "mse": 0.22682992891992731
+    }
+}
+{
+    "step300seed250.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 250,
+        "mse": 0.22827086528797014
+    }
+}
+{
+    "step300seed300.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 300,
+        "mse": 0.2266128596886607
+    }
+}
+{
+    "step300seed350.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 350,
+        "mse": 0.2257128748428586
+    }
+}
+{
+    "step300seed400.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 400,
+        "mse": 0.2278411970150433
+    }
+}
+{
+    "step300seed450.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 450,
+        "mse": 0.22786113791065304
+    }
+}
+{
+    "step300seed500.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 500,
+        "mse": 0.2283653081879234
+    }
+}
+{
+    "step400seed0.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 0,
+        "mse": 0.4718363922135445
+    }
+}
+{
+    "step400seed50.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 50,
+        "mse": 0.4724645223593221
+    }
+}
+{
+    "step400seed100.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 100,
+        "mse": 0.47307872498280046
+    }
+}
+{
+    "step400seed150.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 150,
+        "mse": 0.46961149286379933
+    }
+}
+{
+    "step400seed200.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 200,
+        "mse": 0.46996829670831913
+    }
+}
+{
+    "step400seed250.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 250,
+        "mse": 0.4737747224341162
+    }
+}
+{
+    "step400seed300.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 300,
+        "mse": 0.4695268424302172
+    }
+}
+{
+    "step400seed350.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 350,
+        "mse": 0.46791657471250375
+    }
+}
+{
+    "step400seed400.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 400,
+        "mse": 0.4735116981603398
+    }
+}
+{
+    "step400seed450.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 450,
+        "mse": 0.47273668037778194
+    }
+}
+{
+    "step400seed500.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 500,
+        "mse": 0.4737388078841975
+    }
+}
+{
+    "step500seed0.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 0,
+        "mse": 0.9090009798176131
+    }
+}
+{
+    "step500seed50.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 50,
+        "mse": 0.9087333901556393
+    }
+}
+{
+    "step500seed100.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 100,
+        "mse": 0.9121598362696705
+    }
+}
+{
+    "step500seed150.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 150,
+        "mse": 0.9029729419865539
+    }
+}
+{
+    "step500seed200.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 200,
+        "mse": 0.9053269733599726
+    }
+}
+{
+    "step500seed250.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 250,
+        "mse": 0.9126650875935635
+    }
+}
+{
+    "step500seed300.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 300,
+        "mse": 0.9033234465630909
+    }
+}
+{
+    "step500seed350.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 350,
+        "mse": 0.9009117644579324
+    }
+}
+{
+    "step500seed400.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 400,
+        "mse": 0.9122927257680719
+    }
+}
+{
+    "step500seed450.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 450,
+        "mse": 0.9087870143686035
+    }
+}
+{
+    "step500seed500.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 500,
+        "mse": 0.9115118843101238
+    }
+}
+{
+    "step600seed0.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 0,
+        "mse": 1.6629358357031536
+    }
+}
+{
+    "step600seed50.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 50,
+        "mse": 1.6605982536010073
+    }
+}
+{
+    "step600seed100.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 100,
+        "mse": 1.6678873212169858
+    }
+}
+{
+    "step600seed150.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 150,
+        "mse": 1.647719188298674
+    }
+}
+{
+    "step600seed200.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 200,
+        "mse": 1.6525639664067118
+    }
+}
+{
+    "step600seed250.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 250,
+        "mse": 1.669238755802849
+    }
+}
+{
+    "step600seed300.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 300,
+        "mse": 1.6458372081048873
+    }
+}
+{
+    "step600seed350.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 350,
+        "mse": 1.6457163506662846
+    }
+}
+{
+    "step600seed400.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 400,
+        "mse": 1.6672968147409375
+    }
+}
+{
+    "step600seed450.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 450,
+        "mse": 1.6569730043140485
+    }
+}
+{
+    "step600seed500.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 500,
+        "mse": 1.665710844048076
+    }
+}
+{
+    "step700seed0.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 0,
+        "mse": 3.186655383143541
+    }
+}
+{
+    "step700seed50.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 50,
+        "mse": 3.1768647138078063
+    }
+}
+{
+    "step700seed100.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 100,
+        "mse": 3.188484547447011
+    }
+}
+{
+    "step700seed150.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 150,
+        "mse": 3.14017873143542
+    }
+}
+{
+    "step700seed200.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 200,
+        "mse": 3.1498129260373875
+    }
+}
+{
+    "step700seed250.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 250,
+        "mse": 3.1901891178592168
+    }
+}
+{
+    "step700seed300.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 300,
+        "mse": 3.1281162289179
+    }
+}
+{
+    "step700seed350.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 350,
+        "mse": 3.140495432274328
+    }
+}
+{
+    "step700seed400.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 400,
+        "mse": 3.1819292537347863
+    }
+}
+{
+    "step700seed450.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 450,
+        "mse": 3.156211047207735
+    }
+}
+{
+    "step700seed500.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 500,
+        "mse": 3.1798247485759195
+    }
+}
+{
+    "step800seed0.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 0,
+        "mse": 7.151003494635544
+    }
+}
+{
+    "step800seed50.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 50,
+        "mse": 7.105102969338395
+    }
+}
+{
+    "step800seed100.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 100,
+        "mse": 7.118628332939891
+    }
+}
+{
+    "step800seed150.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 150,
+        "mse": 6.991584365419715
+    }
+}
+{
+    "step800seed200.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 200,
+        "mse": 7.004390894928599
+    }
+}
+{
+    "step800seed250.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 250,
+        "mse": 7.121969408412121
+    }
+}
+{
+    "step800seed300.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 300,
+        "mse": 6.948991877199345
+    }
+}
+{
+    "step800seed350.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 350,
+        "mse": 7.001732568628348
+    }
+}
+{
+    "step800seed400.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 400,
+        "mse": 7.081513960084476
+    }
+}
+{
+    "step800seed450.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 450,
+        "mse": 7.008406233997906
+    }
+}
+{
+    "step800seed500.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 500,
+        "mse": 7.078517814774677
+    }
+}
+{
+    "step900seed0.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 0,
+        "mse": 19.408641361870885
+    }
+}
+{
+    "step900seed50.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 50,
+        "mse": 19.187619683103204
+    }
+}
+{
+    "step900seed100.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 100,
+        "mse": 19.171170854042966
+    }
+}
+{
+    "step900seed150.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 150,
+        "mse": 18.808612856174904
+    }
+}
+{
+    "step900seed200.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 200,
+        "mse": 18.74330819080746
+    }
+}
+{
+    "step900seed250.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 250,
+        "mse": 19.182230434139
+    }
+}
+{
+    "step900seed300.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 300,
+        "mse": 18.645641640826955
+    }
+}
+{
+    "step900seed350.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 350,
+        "mse": 18.819583518374817
+    }
+}
+{
+    "step900seed400.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 400,
+        "mse": 19.005250561635254
+    }
+}
+{
+    "step900seed450.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 450,
+        "mse": 18.761042314331622
+    }
+}
+{
+    "step900seed500.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 500,
+        "mse": 18.937324036599417
+    }
+}
+{
+    "step1000seed0.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 0,
+        "mse": 61.32360597342076
+    }
+}
+{
+    "step1000seed50.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 50,
+        "mse": 60.36247793848448
+    }
+}
+{
+    "step1000seed100.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 100,
+        "mse": 60.10517581698814
+    }
+}
+{
+    "step1000seed150.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 150,
+        "mse": 58.95091656576334
+    }
+}
+{
+    "step1000seed200.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 200,
+        "mse": 58.361698363177894
+    }
+}
+{
+    "step1000seed250.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 250,
+        "mse": 60.182015274561536
+    }
+}
+{
+    "step1000seed300.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 300,
+        "mse": 58.33368359442636
+    }
+}
+{
+    "step1000seed350.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 350,
+        "mse": 58.91940110114568
+    }
+}
+{
+    "step1000seed400.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 400,
+        "mse": 59.443678745228915
+    }
+}
+{
+    "step1000seed450.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 450,
+        "mse": 58.477930078198206
+    }
+}
+{
+    "step1000seed500.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 500,
+        "mse": 58.88099738263587
+    }
+}
