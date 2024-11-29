@@ -1,0 +1,266 @@
+{
+    "step1seed0.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 0,
+        "mse": 0.00014944587353004902
+    },
+    "step1seed50.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 50,
+        "mse": 0.00014884482075244458
+    },
+    "step1seed100.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 100,
+        "mse": 0.00014914321054980672
+    },
+    "step1seed150.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 150,
+        "mse": 0.0001492596715191262
+    },
+    "step1seed200.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 200,
+        "mse": 0.0001493558040791263
+    },
+    "step1seed250.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 250,
+        "mse": 0.0001487849731070368
+    },
+    "step1seed300.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 300,
+        "mse": 0.00014896079390167363
+    },
+    "step1seed350.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 350,
+        "mse": 0.000148238028691348
+    },
+    "step1seed400.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 400,
+        "mse": 0.00014885809705917233
+    },
+    "step1seed450.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 450,
+        "mse": 0.0001493261174420938
+    },
+    "step1seed500.pt": {
+        "env_name": "ant",
+        "step": 1,
+        "seed": 500,
+        "mse": 0.00014889773765999978
+    },
+    "step10seed0.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 0,
+        "mse": 0.06935448407081528
+    },
+    "step10seed50.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 50,
+        "mse": 0.0693794047373408
+    },
+    "step10seed100.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 100,
+        "mse": 0.06935734147570508
+    },
+    "step10seed150.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 150,
+        "mse": 0.06935798210865703
+    },
+    "step10seed200.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 200,
+        "mse": 0.06940409879422657
+    },
+    "step10seed250.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 250,
+        "mse": 0.06933253286470845
+    },
+    "step10seed300.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 300,
+        "mse": 0.06931179031083703
+    },
+    "step10seed350.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 350,
+        "mse": 0.06935818612941409
+    },
+    "step10seed400.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 400,
+        "mse": 0.06933012946654236
+    },
+    "step10seed450.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 450,
+        "mse": 0.06941317002201601
+    },
+    "step10seed500.pt": {
+        "env_name": "ant",
+        "step": 10,
+        "seed": 500,
+        "mse": 0.06935157331968153
+    },
+    "step50seed0.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 0,
+        "mse": 0.36695857495504963
+    },
+    "step50seed50.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 50,
+        "mse": 0.36681126192561286
+    },
+    "step50seed100.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 100,
+        "mse": 0.36673125537801565
+    },
+    "step50seed150.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 150,
+        "mse": 0.36688937060314314
+    },
+    "step50seed200.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 200,
+        "mse": 0.3668936272830446
+    },
+    "step50seed250.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 250,
+        "mse": 0.3668524326933751
+    },
+    "step50seed300.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 300,
+        "mse": 0.3666605859494817
+    },
+    "step50seed350.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 350,
+        "mse": 0.36670445881171665
+    },
+    "step50seed400.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 400,
+        "mse": 0.36658175334566917
+    },
+    "step50seed450.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 450,
+        "mse": 0.3670852685744831
+    },
+    "step50seed500.pt": {
+        "env_name": "ant",
+        "step": 50,
+        "seed": 500,
+        "mse": 0.36689951573493207
+    },
+    "step100seed0.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 0,
+        "mse": 0.6137994890703186
+    },
+    "step100seed50.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 50,
+        "mse": 0.613625131290038
+    },
+    "step100seed100.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 100,
+        "mse": 0.6137831422845281
+    },
+    "step100seed150.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 150,
+        "mse": 0.6138908149313548
+    },
+    "step100seed200.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 200,
+        "mse": 0.6140526249257465
+    },
+    "step100seed250.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 250,
+        "mse": 0.613832794385538
+    },
+    "step100seed300.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 300,
+        "mse": 0.613755739390154
+    },
+    "step100seed350.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 350,
+        "mse": 0.6136480314417769
+    },
+    "step100seed400.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 400,
+        "mse": 0.6137038105890376
+    },
+    "step100seed450.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 450,
+        "mse": 0.6140061787013602
+    },
+    "step100seed500.pt": {
+        "env_name": "ant",
+        "step": 100,
+        "seed": 500,
+        "mse": 0.6139324152086519
+    }
+}

@@ -1,0 +1,266 @@
+{
+    "step1seed0.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 0,
+        "mse": 0.00014925962022971362
+    },
+    "step1seed50.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 50,
+        "mse": 0.00014842009113635868
+    },
+    "step1seed100.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 100,
+        "mse": 0.00014984240988269448
+    },
+    "step1seed150.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 150,
+        "mse": 0.00014996326353866607
+    },
+    "step1seed200.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 200,
+        "mse": 0.00014870606537442654
+    },
+    "step1seed250.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 250,
+        "mse": 0.00014944412396289408
+    },
+    "step1seed300.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 300,
+        "mse": 0.00014936111983843148
+    },
+    "step1seed350.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 350,
+        "mse": 0.00014922763512004167
+    },
+    "step1seed400.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 400,
+        "mse": 0.00014938568347133696
+    },
+    "step1seed450.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 450,
+        "mse": 0.0001498552883276716
+    },
+    "step1seed500.pt": {
+        "env_name": "walker",
+        "step": 1,
+        "seed": 500,
+        "mse": 0.00014945486327633262
+    },
+    "step10seed0.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 0,
+        "mse": 0.0020831343717873096
+    },
+    "step10seed50.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 50,
+        "mse": 0.0020854538306593895
+    },
+    "step10seed100.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 100,
+        "mse": 0.0021018364932388067
+    },
+    "step10seed150.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 150,
+        "mse": 0.002085452899336815
+    },
+    "step10seed200.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 200,
+        "mse": 0.002089584479108453
+    },
+    "step10seed250.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 250,
+        "mse": 0.0020906501449644566
+    },
+    "step10seed300.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 300,
+        "mse": 0.0020983521826565266
+    },
+    "step10seed350.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 350,
+        "mse": 0.0021056970581412315
+    },
+    "step10seed400.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 400,
+        "mse": 0.0020926957949995995
+    },
+    "step10seed450.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 450,
+        "mse": 0.0020903097465634346
+    },
+    "step10seed500.pt": {
+        "env_name": "walker",
+        "step": 10,
+        "seed": 500,
+        "mse": 0.0020984376315027475
+    },
+    "step50seed0.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 0,
+        "mse": 0.007748475763946772
+    },
+    "step50seed50.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 50,
+        "mse": 0.0077605340629816055
+    },
+    "step50seed100.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 100,
+        "mse": 0.007815638557076454
+    },
+    "step50seed150.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 150,
+        "mse": 0.0077457549050450325
+    },
+    "step50seed200.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 200,
+        "mse": 0.007809125352650881
+    },
+    "step50seed250.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 250,
+        "mse": 0.00776299275457859
+    },
+    "step50seed300.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 300,
+        "mse": 0.007798022590577602
+    },
+    "step50seed350.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 350,
+        "mse": 0.007826569490134716
+    },
+    "step50seed400.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 400,
+        "mse": 0.0076743303798139095
+    },
+    "step50seed450.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 450,
+        "mse": 0.00782104767858982
+    },
+    "step50seed500.pt": {
+        "env_name": "walker",
+        "step": 50,
+        "seed": 500,
+        "mse": 0.007820270024240017
+    },
+    "step100seed0.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 0,
+        "mse": 0.014642213471233845
+    },
+    "step100seed50.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 50,
+        "mse": 0.014763502404093742
+    },
+    "step100seed100.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 100,
+        "mse": 0.014780581928789616
+    },
+    "step100seed150.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 150,
+        "mse": 0.014582900330424309
+    },
+    "step100seed200.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 200,
+        "mse": 0.014748657122254372
+    },
+    "step100seed250.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 250,
+        "mse": 0.014632443897426128
+    },
+    "step100seed300.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 300,
+        "mse": 0.014721998013556004
+    },
+    "step100seed350.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 350,
+        "mse": 0.014715996570885181
+    },
+    "step100seed400.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 400,
+        "mse": 0.014552210457623005
+    },
+    "step100seed450.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 450,
+        "mse": 0.014724531210958958
+    },
+    "step100seed500.pt": {
+        "env_name": "walker",
+        "step": 100,
+        "seed": 500,
+        "mse": 0.014722906984388828
+    }
+}
