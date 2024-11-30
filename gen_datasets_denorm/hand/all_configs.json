@@ -1,0 +1,1003 @@
+{
+    "step1seed0.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 0,
+        "State MSE": 0.00014903873670846224,
+        "action MSE": 0.00014973938232287765
+    },
+    "step1seed50.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 50,
+        "State MSE": 0.0001493284071329981,
+        "action MSE": 0.00014888710575178266
+    },
+    "step1seed100.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 100,
+        "State MSE": 0.00014966679736971855,
+        "action MSE": 0.0001494821481173858
+    },
+    "step1seed150.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 150,
+        "State MSE": 0.00014901309623382986,
+        "action MSE": 0.00014968164032325149
+    },
+    "step1seed200.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 200,
+        "State MSE": 0.00014945185102988034,
+        "action MSE": 0.0001487711415393278
+    },
+    "step1seed250.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 250,
+        "State MSE": 0.00014910860045347363,
+        "action MSE": 0.0001493513263994828
+    },
+    "step1seed300.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 300,
+        "State MSE": 0.00014959629334043711,
+        "action MSE": 0.0001490520517108962
+    },
+    "step1seed350.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 350,
+        "State MSE": 0.0001493496383773163,
+        "action MSE": 0.00014872828614898026
+    },
+    "step1seed400.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 400,
+        "State MSE": 0.00014904289855621755,
+        "action MSE": 0.00014946033479645848
+    },
+    "step1seed450.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 450,
+        "State MSE": 0.00014943600399419665,
+        "action MSE": 0.00014968069444876164
+    },
+    "step1seed500.pt": {
+        "env_name": "hand",
+        "step": 1,
+        "seed": 500,
+        "State MSE": 0.0001494645985076204,
+        "action MSE": 0.00014852825552225113
+    },
+    "step10seed0.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 0,
+        "State MSE": 0.0019151989836245775,
+        "action MSE": 0.0018835626542568207
+    },
+    "step10seed50.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 50,
+        "State MSE": 0.0019131636945530772,
+        "action MSE": 0.001869959058240056
+    },
+    "step10seed100.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 100,
+        "State MSE": 0.0019204801646992564,
+        "action MSE": 0.001871016575023532
+    },
+    "step10seed150.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 150,
+        "State MSE": 0.0019144994439557195,
+        "action MSE": 0.0018832434434443712
+    },
+    "step10seed200.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 200,
+        "State MSE": 0.0019237371161580086,
+        "action MSE": 0.0018737809732556343
+    },
+    "step10seed250.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 250,
+        "State MSE": 0.0019210957689210773,
+        "action MSE": 0.0018794091884046793
+    },
+    "step10seed300.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 300,
+        "State MSE": 0.001913701999001205,
+        "action MSE": 0.0018837946699932218
+    },
+    "step10seed350.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 350,
+        "State MSE": 0.0019207583973184228,
+        "action MSE": 0.0018843275029212236
+    },
+    "step10seed400.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 400,
+        "State MSE": 0.0019195172935724258,
+        "action MSE": 0.0018762042745947838
+    },
+    "step10seed450.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 450,
+        "State MSE": 0.001926159136928618,
+        "action MSE": 0.0018862931756302714
+    },
+    "step10seed500.pt": {
+        "env_name": "hand",
+        "step": 10,
+        "seed": 500,
+        "State MSE": 0.001919404836371541,
+        "action MSE": 0.0018827145686373115
+    },
+    "step50seed0.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 0,
+        "State MSE": 0.005946519318968058,
+        "action MSE": 0.005585027392953634
+    },
+    "step50seed50.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 50,
+        "State MSE": 0.0059248413890600204,
+        "action MSE": 0.005584139376878738
+    },
+    "step50seed100.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 100,
+        "State MSE": 0.005946530494838953,
+        "action MSE": 0.005604031961411238
+    },
+    "step50seed150.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 150,
+        "State MSE": 0.0059470864944159985,
+        "action MSE": 0.0055766236037015915
+    },
+    "step50seed200.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 200,
+        "State MSE": 0.005968229379504919,
+        "action MSE": 0.00557233951985836
+    },
+    "step50seed250.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 250,
+        "State MSE": 0.005938604474067688,
+        "action MSE": 0.005579766351729631
+    },
+    "step50seed300.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 300,
+        "State MSE": 0.005943430587649345,
+        "action MSE": 0.0056387591175735
+    },
+    "step50seed350.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 350,
+        "State MSE": 0.005948696751147509,
+        "action MSE": 0.0056001851335167885
+    },
+    "step50seed400.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 400,
+        "State MSE": 0.005925479810684919,
+        "action MSE": 0.005577712785452604
+    },
+    "step50seed450.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 450,
+        "State MSE": 0.005950355902314186,
+        "action MSE": 0.005589685868471861
+    },
+    "step50seed500.pt": {
+        "env_name": "hand",
+        "step": 50,
+        "seed": 500,
+        "State MSE": 0.005945468321442604,
+        "action MSE": 0.005581379402428865
+    },
+    "step100seed0.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 0,
+        "State MSE": 0.009737971238791943,
+        "action MSE": 0.009043758735060692
+    },
+    "step100seed50.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 50,
+        "State MSE": 0.009728171862661839,
+        "action MSE": 0.008976642042398453
+    },
+    "step100seed100.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 100,
+        "State MSE": 0.00975695252418518,
+        "action MSE": 0.009057220071554184
+    },
+    "step100seed150.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 150,
+        "State MSE": 0.009777308441698551,
+        "action MSE": 0.00906149297952652
+    },
+    "step100seed200.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 200,
+        "State MSE": 0.009809007868170738,
+        "action MSE": 0.009004353545606136
+    },
+    "step100seed250.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 250,
+        "State MSE": 0.009774688631296158,
+        "action MSE": 0.008973294869065285
+    },
+    "step100seed300.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 300,
+        "State MSE": 0.009764161892235279,
+        "action MSE": 0.00906163826584816
+    },
+    "step100seed350.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 350,
+        "State MSE": 0.009758013300597668,
+        "action MSE": 0.009030137211084366
+    },
+    "step100seed400.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 400,
+        "State MSE": 0.009740456938743591,
+        "action MSE": 0.00895510334521532
+    },
+    "step100seed450.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 450,
+        "State MSE": 0.009786184877157211,
+        "action MSE": 0.008996199816465378
+    },
+    "step100seed500.pt": {
+        "env_name": "hand",
+        "step": 100,
+        "seed": 500,
+        "State MSE": 0.009740674868226051,
+        "action MSE": 0.00896005891263485
+    },
+    "step200seed0.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 0,
+        "State MSE": 0.0190134197473526,
+        "action MSE": 0.017840169370174408
+    },
+    "step200seed50.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 50,
+        "State MSE": 0.01907132752239704,
+        "action MSE": 0.017464473843574524
+    },
+    "step200seed100.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 100,
+        "State MSE": 0.019148606806993484,
+        "action MSE": 0.01771487295627594
+    },
+    "step200seed150.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 150,
+        "State MSE": 0.01923416741192341,
+        "action MSE": 0.017689920961856842
+    },
+    "step200seed200.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 200,
+        "State MSE": 0.019198020920157433,
+        "action MSE": 0.017730925232172012
+    },
+    "step200seed250.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 250,
+        "State MSE": 0.019186509773135185,
+        "action MSE": 0.017597448080778122
+    },
+    "step200seed300.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 300,
+        "State MSE": 0.01908949390053749,
+        "action MSE": 0.017735149711370468
+    },
+    "step200seed350.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 350,
+        "State MSE": 0.019154032692313194,
+        "action MSE": 0.017654122784733772
+    },
+    "step200seed400.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 400,
+        "State MSE": 0.019061433151364326,
+        "action MSE": 0.017560800537467003
+    },
+    "step200seed450.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 450,
+        "State MSE": 0.019161676988005638,
+        "action MSE": 0.017597706988453865
+    },
+    "step200seed500.pt": {
+        "env_name": "hand",
+        "step": 200,
+        "seed": 500,
+        "State MSE": 0.019026506692171097,
+        "action MSE": 0.017552556470036507
+    },
+    "step300seed0.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 0,
+        "State MSE": 0.03819861635565758,
+        "action MSE": 0.03723304346203804
+    },
+    "step300seed50.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 50,
+        "State MSE": 0.03811725229024887,
+        "action MSE": 0.03604612126946449
+    },
+    "step300seed100.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 100,
+        "State MSE": 0.038578469306230545,
+        "action MSE": 0.036923736333847046
+    },
+    "step300seed150.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 150,
+        "State MSE": 0.03873618319630623,
+        "action MSE": 0.03693857416510582
+    },
+    "step300seed200.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 200,
+        "State MSE": 0.03867457062005997,
+        "action MSE": 0.036711763590574265
+    },
+    "step300seed250.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 250,
+        "State MSE": 0.0385177917778492,
+        "action MSE": 0.036526456475257874
+    },
+    "step300seed300.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 300,
+        "State MSE": 0.03837703913450241,
+        "action MSE": 0.03683657944202423
+    },
+    "step300seed350.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 350,
+        "State MSE": 0.03856772929430008,
+        "action MSE": 0.036640360951423645
+    },
+    "step300seed400.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 400,
+        "State MSE": 0.038372382521629333,
+        "action MSE": 0.036456458270549774
+    },
+    "step300seed450.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 450,
+        "State MSE": 0.03849387541413307,
+        "action MSE": 0.03650727868080139
+    },
+    "step300seed500.pt": {
+        "env_name": "hand",
+        "step": 300,
+        "seed": 500,
+        "State MSE": 0.03817620500922203,
+        "action MSE": 0.03612081706523895
+    },
+    "step400seed0.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 0,
+        "State MSE": 0.09267859160900116,
+        "action MSE": 0.094991534948349
+    },
+    "step400seed50.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 50,
+        "State MSE": 0.09234117716550827,
+        "action MSE": 0.09229343384504318
+    },
+    "step400seed100.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 100,
+        "State MSE": 0.09403315931558609,
+        "action MSE": 0.09529566764831543
+    },
+    "step400seed150.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 150,
+        "State MSE": 0.09440296143293381,
+        "action MSE": 0.09429007023572922
+    },
+    "step400seed200.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 200,
+        "State MSE": 0.09395840764045715,
+        "action MSE": 0.09389277547597885
+    },
+    "step400seed250.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 250,
+        "State MSE": 0.09396890550851822,
+        "action MSE": 0.09413918852806091
+    },
+    "step400seed300.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 300,
+        "State MSE": 0.09338770806789398,
+        "action MSE": 0.09387267380952835
+    },
+    "step400seed350.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 350,
+        "State MSE": 0.09354440122842789,
+        "action MSE": 0.09453006833791733
+    },
+    "step400seed400.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 400,
+        "State MSE": 0.09340918809175491,
+        "action MSE": 0.09310976415872574
+    },
+    "step400seed450.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 450,
+        "State MSE": 0.09315793216228485,
+        "action MSE": 0.09220001846551895
+    },
+    "step400seed500.pt": {
+        "env_name": "hand",
+        "step": 400,
+        "seed": 500,
+        "State MSE": 0.09277268499135971,
+        "action MSE": 0.09278232604265213
+    },
+    "step500seed0.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 0,
+        "State MSE": 0.30564966797828674,
+        "action MSE": 0.32813405990600586
+    },
+    "step500seed50.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 50,
+        "State MSE": 0.30030232667922974,
+        "action MSE": 0.3205813467502594
+    },
+    "step500seed100.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 100,
+        "State MSE": 0.3094283938407898,
+        "action MSE": 0.3349919021129608
+    },
+    "step500seed150.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 150,
+        "State MSE": 0.30540987849235535,
+        "action MSE": 0.3226485252380371
+    },
+    "step500seed200.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 200,
+        "State MSE": 0.3074325919151306,
+        "action MSE": 0.32354989647865295
+    },
+    "step500seed250.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 250,
+        "State MSE": 0.30657505989074707,
+        "action MSE": 0.32649531960487366
+    },
+    "step500seed300.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 300,
+        "State MSE": 0.30657994747161865,
+        "action MSE": 0.32380160689353943
+    },
+    "step500seed350.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 350,
+        "State MSE": 0.3068341910839081,
+        "action MSE": 0.33019575476646423
+    },
+    "step500seed400.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 400,
+        "State MSE": 0.30485329031944275,
+        "action MSE": 0.3246068060398102
+    },
+    "step500seed450.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 450,
+        "State MSE": 0.3036242723464966,
+        "action MSE": 0.32293716073036194
+    },
+    "step500seed500.pt": {
+        "env_name": "hand",
+        "step": 500,
+        "seed": 500,
+        "State MSE": 0.31043925881385803,
+        "action MSE": 0.329784095287323
+    },
+    "step600seed0.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 0,
+        "State MSE": 0.9818621277809143,
+        "action MSE": 1.0705416202545166
+    },
+    "step600seed50.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 50,
+        "State MSE": 0.9907165169715881,
+        "action MSE": 1.0820250511169434
+    },
+    "step600seed100.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 100,
+        "State MSE": 1.003933072090149,
+        "action MSE": 1.097342848777771
+    },
+    "step600seed150.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 150,
+        "State MSE": 0.9816578030586243,
+        "action MSE": 1.0747346878051758
+    },
+    "step600seed200.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 200,
+        "State MSE": 0.9944164752960205,
+        "action MSE": 1.0813690423965454
+    },
+    "step600seed250.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 250,
+        "State MSE": 0.9955372214317322,
+        "action MSE": 1.09219229221344
+    },
+    "step600seed300.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 300,
+        "State MSE": 0.996340811252594,
+        "action MSE": 1.0846246480941772
+    },
+    "step600seed350.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 350,
+        "State MSE": 0.994137704372406,
+        "action MSE": 1.0801115036010742
+    },
+    "step600seed400.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 400,
+        "State MSE": 0.9983639717102051,
+        "action MSE": 1.0868008136749268
+    },
+    "step600seed450.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 450,
+        "State MSE": 0.9921444654464722,
+        "action MSE": 1.0785881280899048
+    },
+    "step600seed500.pt": {
+        "env_name": "hand",
+        "step": 600,
+        "seed": 500,
+        "State MSE": 0.9949521422386169,
+        "action MSE": 1.0863087177276611
+    },
+    "step700seed0.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 0,
+        "State MSE": 1.5284934043884277,
+        "action MSE": 1.602840781211853
+    },
+    "step700seed50.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 50,
+        "State MSE": 1.514380693435669,
+        "action MSE": 1.5990447998046875
+    },
+    "step700seed100.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 100,
+        "State MSE": 1.5263303518295288,
+        "action MSE": 1.6145695447921753
+    },
+    "step700seed150.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 150,
+        "State MSE": 1.5165114402770996,
+        "action MSE": 1.6054296493530273
+    },
+    "step700seed200.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 200,
+        "State MSE": 1.5201483964920044,
+        "action MSE": 1.6038521528244019
+    },
+    "step700seed250.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 250,
+        "State MSE": 1.5190545320510864,
+        "action MSE": 1.6136528253555298
+    },
+    "step700seed300.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 300,
+        "State MSE": 1.5069798231124878,
+        "action MSE": 1.58774733543396
+    },
+    "step700seed350.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 350,
+        "State MSE": 1.5218147039413452,
+        "action MSE": 1.5996812582015991
+    },
+    "step700seed400.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 400,
+        "State MSE": 1.5207033157348633,
+        "action MSE": 1.6085840463638306
+    },
+    "step700seed450.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 450,
+        "State MSE": 1.5164127349853516,
+        "action MSE": 1.5959490537643433
+    },
+    "step700seed500.pt": {
+        "env_name": "hand",
+        "step": 700,
+        "seed": 500,
+        "State MSE": 1.5302108526229858,
+        "action MSE": 1.6087349653244019
+    },
+    "step800seed0.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 0,
+        "State MSE": 1.6423133611679077,
+        "action MSE": 1.6995849609375
+    },
+    "step800seed50.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 50,
+        "State MSE": 1.6192268133163452,
+        "action MSE": 1.6799988746643066
+    },
+    "step800seed100.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 100,
+        "State MSE": 1.6265068054199219,
+        "action MSE": 1.6868563890457153
+    },
+    "step800seed150.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 150,
+        "State MSE": 1.6262123584747314,
+        "action MSE": 1.6859968900680542
+    },
+    "step800seed200.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 200,
+        "State MSE": 1.6327812671661377,
+        "action MSE": 1.6823281049728394
+    },
+    "step800seed250.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 250,
+        "State MSE": 1.6212910413742065,
+        "action MSE": 1.6827373504638672
+    },
+    "step800seed300.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 300,
+        "State MSE": 1.6228229999542236,
+        "action MSE": 1.6756973266601562
+    },
+    "step800seed350.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 350,
+        "State MSE": 1.6291793584823608,
+        "action MSE": 1.682582974433899
+    },
+    "step800seed400.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 400,
+        "State MSE": 1.6290920972824097,
+        "action MSE": 1.692651391029358
+    },
+    "step800seed450.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 450,
+        "State MSE": 1.6252132654190063,
+        "action MSE": 1.6874266862869263
+    },
+    "step800seed500.pt": {
+        "env_name": "hand",
+        "step": 800,
+        "seed": 500,
+        "State MSE": 1.634716510772705,
+        "action MSE": 1.6937309503555298
+    },
+    "step900seed0.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 0,
+        "State MSE": 1.6596858501434326,
+        "action MSE": 1.715698003768921
+    },
+    "step900seed50.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 50,
+        "State MSE": 1.6416577100753784,
+        "action MSE": 1.7019281387329102
+    },
+    "step900seed100.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 100,
+        "State MSE": 1.6331071853637695,
+        "action MSE": 1.6844221353530884
+    },
+    "step900seed150.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 150,
+        "State MSE": 1.6493022441864014,
+        "action MSE": 1.704179048538208
+    },
+    "step900seed200.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 200,
+        "State MSE": 1.6520007848739624,
+        "action MSE": 1.6933046579360962
+    },
+    "step900seed250.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 250,
+        "State MSE": 1.6467037200927734,
+        "action MSE": 1.6880184412002563
+    },
+    "step900seed300.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 300,
+        "State MSE": 1.637959361076355,
+        "action MSE": 1.6850228309631348
+    },
+    "step900seed350.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 350,
+        "State MSE": 1.6485400199890137,
+        "action MSE": 1.6995577812194824
+    },
+    "step900seed400.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 400,
+        "State MSE": 1.643737554550171,
+        "action MSE": 1.696912169456482
+    },
+    "step900seed450.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 450,
+        "State MSE": 1.6420314311981201,
+        "action MSE": 1.6905512809753418
+    },
+    "step900seed500.pt": {
+        "env_name": "hand",
+        "step": 900,
+        "seed": 500,
+        "State MSE": 1.6477633714675903,
+        "action MSE": 1.7270346879959106
+    },
+    "step1000seed0.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 0,
+        "State MSE": 1.6622403860092163,
+        "action MSE": 1.7158621549606323
+    },
+    "step1000seed50.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 50,
+        "State MSE": 1.6553709506988525,
+        "action MSE": 1.7071025371551514
+    },
+    "step1000seed100.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 100,
+        "State MSE": 1.6460990905761719,
+        "action MSE": 1.6987948417663574
+    },
+    "step1000seed150.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 150,
+        "State MSE": 1.6488031148910522,
+        "action MSE": 1.7079015970230103
+    },
+    "step1000seed200.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 200,
+        "State MSE": 1.6510956287384033,
+        "action MSE": 1.693505883216858
+    },
+    "step1000seed250.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 250,
+        "State MSE": 1.6520886421203613,
+        "action MSE": 1.7004084587097168
+    },
+    "step1000seed300.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 300,
+        "State MSE": 1.6391382217407227,
+        "action MSE": 1.7004623413085938
+    },
+    "step1000seed350.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 350,
+        "State MSE": 1.6545937061309814,
+        "action MSE": 1.7022076845169067
+    },
+    "step1000seed400.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 400,
+        "State MSE": 1.6387813091278076,
+        "action MSE": 1.6905860900878906
+    },
+    "step1000seed450.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 450,
+        "State MSE": 1.6457504034042358,
+        "action MSE": 1.6965503692626953
+    },
+    "step1000seed500.pt": {
+        "env_name": "hand",
+        "step": 1000,
+        "seed": 500,
+        "State MSE": 1.6632825136184692,
+        "action MSE": 1.8416539430618286
+    }
+}
