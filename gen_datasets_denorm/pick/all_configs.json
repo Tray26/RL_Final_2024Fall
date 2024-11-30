@@ -1,0 +1,1003 @@
+{
+    "step1seed0.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 0,
+        "State MSE": 0.00014942929989447765,
+        "action MSE": 0.00014957173456111222
+    },
+    "step1seed50.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 50,
+        "State MSE": 0.00014863383028329815,
+        "action MSE": 0.0001498706306933972
+    },
+    "step1seed100.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 100,
+        "State MSE": 0.0001488714712393777,
+        "action MSE": 0.00014884502778023196
+    },
+    "step1seed150.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 150,
+        "State MSE": 0.00014905906284343775,
+        "action MSE": 0.00015002361653098699
+    },
+    "step1seed200.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 200,
+        "State MSE": 0.00014936782387884668,
+        "action MSE": 0.00014890267336031195
+    },
+    "step1seed250.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 250,
+        "State MSE": 0.00014916969592847432,
+        "action MSE": 0.000148818818385547
+    },
+    "step1seed300.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 300,
+        "State MSE": 0.00014910070943223474,
+        "action MSE": 0.00014897474956509853
+    },
+    "step1seed350.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 350,
+        "State MSE": 0.00014844926226304214,
+        "action MSE": 0.00014740024799832642
+    },
+    "step1seed400.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 400,
+        "State MSE": 0.00014897338048357366,
+        "action MSE": 0.0001468767561633276
+    },
+    "step1seed450.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 450,
+        "State MSE": 0.00014976894612847222,
+        "action MSE": 0.00014889872935942532
+    },
+    "step1seed500.pt": {
+        "env_name": "pick",
+        "step": 1,
+        "seed": 500,
+        "State MSE": 0.00014928427405932026,
+        "action MSE": 0.00014947990346395138
+    },
+    "step10seed0.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 0,
+        "State MSE": 0.0010573309730834294,
+        "action MSE": 0.0005644779153746319
+    },
+    "step10seed50.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 50,
+        "State MSE": 0.0010439744133144415,
+        "action MSE": 0.0005574655796388922
+    },
+    "step10seed100.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 100,
+        "State MSE": 0.0010429926099741968,
+        "action MSE": 0.000559423502411101
+    },
+    "step10seed150.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 150,
+        "State MSE": 0.0010419624799561692,
+        "action MSE": 0.0005567011337591533
+    },
+    "step10seed200.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 200,
+        "State MSE": 0.0010452622678134543,
+        "action MSE": 0.0005662886080013095
+    },
+    "step10seed250.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 250,
+        "State MSE": 0.0010471668663227397,
+        "action MSE": 0.000563593444021021
+    },
+    "step10seed300.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 300,
+        "State MSE": 0.001049201464131394,
+        "action MSE": 0.0005478102638390627
+    },
+    "step10seed350.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 350,
+        "State MSE": 0.0010405375817596947,
+        "action MSE": 0.0005531918051831615
+    },
+    "step10seed400.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 400,
+        "State MSE": 0.0010368737811347539,
+        "action MSE": 0.0005581987894576947
+    },
+    "step10seed450.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 450,
+        "State MSE": 0.0010524699702633984,
+        "action MSE": 0.0005603511194173648
+    },
+    "step10seed500.pt": {
+        "env_name": "pick",
+        "step": 10,
+        "seed": 500,
+        "State MSE": 0.0010568248411592434,
+        "action MSE": 0.0005505014985013566
+    },
+    "step50seed0.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 0,
+        "State MSE": 0.0046124808726913,
+        "action MSE": 0.0018353854681610621
+    },
+    "step50seed50.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 50,
+        "State MSE": 0.004551304875291224,
+        "action MSE": 0.0018145659274830294
+    },
+    "step50seed100.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 100,
+        "State MSE": 0.004600742849988272,
+        "action MSE": 0.0018003603824513334
+    },
+    "step50seed150.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 150,
+        "State MSE": 0.004558556225905914,
+        "action MSE": 0.0017892784513520194
+    },
+    "step50seed200.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 200,
+        "State MSE": 0.0045644725187735415,
+        "action MSE": 0.0018183122936018734
+    },
+    "step50seed250.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 250,
+        "State MSE": 0.004559788804529492,
+        "action MSE": 0.0018496407180076972
+    },
+    "step50seed300.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 300,
+        "State MSE": 0.0045897850590181765,
+        "action MSE": 0.0018350349621008256
+    },
+    "step50seed350.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 350,
+        "State MSE": 0.004493577238035812,
+        "action MSE": 0.001857692489890841
+    },
+    "step50seed400.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 400,
+        "State MSE": 0.00450803032108855,
+        "action MSE": 0.0017913858093664792
+    },
+    "step50seed450.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 450,
+        "State MSE": 0.004609117873721236,
+        "action MSE": 0.0018138152381495729
+    },
+    "step50seed500.pt": {
+        "env_name": "pick",
+        "step": 50,
+        "seed": 500,
+        "State MSE": 0.004596489028447695,
+        "action MSE": 0.0017822807289203815
+    },
+    "step100seed0.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 0,
+        "State MSE": 0.009935120674423484,
+        "action MSE": 0.0036754739457176113
+    },
+    "step100seed50.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 50,
+        "State MSE": 0.009900512303811131,
+        "action MSE": 0.0036191888438600914
+    },
+    "step100seed100.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 100,
+        "State MSE": 0.0099016475470351,
+        "action MSE": 0.003592205299549854
+    },
+    "step100seed150.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 150,
+        "State MSE": 0.009832867634087725,
+        "action MSE": 0.0035771629276100106
+    },
+    "step100seed200.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 200,
+        "State MSE": 0.009882068941318892,
+        "action MSE": 0.003637511962523321
+    },
+    "step100seed250.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 250,
+        "State MSE": 0.0098603528959683,
+        "action MSE": 0.0037185272148360896
+    },
+    "step100seed300.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 300,
+        "State MSE": 0.009957013972830027,
+        "action MSE": 0.0036356915287007255
+    },
+    "step100seed350.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 350,
+        "State MSE": 0.009811269023023313,
+        "action MSE": 0.0036315897060018843
+    },
+    "step100seed400.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 400,
+        "State MSE": 0.009818712050798643,
+        "action MSE": 0.0035674376709322643
+    },
+    "step100seed450.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 450,
+        "State MSE": 0.009946218345181605,
+        "action MSE": 0.003627999436523123
+    },
+    "step100seed500.pt": {
+        "env_name": "pick",
+        "step": 100,
+        "seed": 500,
+        "State MSE": 0.009923591699795179,
+        "action MSE": 0.003617179690610372
+    },
+    "step200seed0.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 0,
+        "State MSE": 0.02866505765819415,
+        "action MSE": 0.009854667680707101
+    },
+    "step200seed50.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 50,
+        "State MSE": 0.02812190660290703,
+        "action MSE": 0.00979805099597412
+    },
+    "step200seed100.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 100,
+        "State MSE": 0.028441899184777294,
+        "action MSE": 0.009738744435300506
+    },
+    "step200seed150.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 150,
+        "State MSE": 0.02820533440441642,
+        "action MSE": 0.009764119684551938
+    },
+    "step200seed200.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 200,
+        "State MSE": 0.028266321340167617,
+        "action MSE": 0.009688230694624787
+    },
+    "step200seed250.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 250,
+        "State MSE": 0.028458253307451054,
+        "action MSE": 0.010050855788051118
+    },
+    "step200seed300.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 300,
+        "State MSE": 0.028462225040871668,
+        "action MSE": 0.009730126202287283
+    },
+    "step200seed350.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 350,
+        "State MSE": 0.027924807858613076,
+        "action MSE": 0.009767980510850455
+    },
+    "step200seed400.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 400,
+        "State MSE": 0.028031245058501814,
+        "action MSE": 0.00966682882950144
+    },
+    "step200seed450.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 450,
+        "State MSE": 0.028445668624715405,
+        "action MSE": 0.009743897958955547
+    },
+    "step200seed500.pt": {
+        "env_name": "pick",
+        "step": 200,
+        "seed": 500,
+        "State MSE": 0.028501602098217775,
+        "action MSE": 0.00966921612200361
+    },
+    "step300seed0.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 0,
+        "State MSE": 0.07452330040485694,
+        "action MSE": 0.029658276369589977
+    },
+    "step300seed50.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 50,
+        "State MSE": 0.07384883828495839,
+        "action MSE": 0.029827009588781043
+    },
+    "step300seed100.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 100,
+        "State MSE": 0.07392955671121558,
+        "action MSE": 0.029090242293590824
+    },
+    "step300seed150.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 150,
+        "State MSE": 0.07399359205273617,
+        "action MSE": 0.029900882502698744
+    },
+    "step300seed200.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 200,
+        "State MSE": 0.0738688077649446,
+        "action MSE": 0.029013956313471055
+    },
+    "step300seed250.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 250,
+        "State MSE": 0.07378907686427333,
+        "action MSE": 0.029245521924523784
+    },
+    "step300seed300.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 300,
+        "State MSE": 0.07430369464852744,
+        "action MSE": 0.02879429945955741
+    },
+    "step300seed350.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 350,
+        "State MSE": 0.0729077679953739,
+        "action MSE": 0.028555885052063287
+    },
+    "step300seed400.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 400,
+        "State MSE": 0.07325918850227393,
+        "action MSE": 0.03060017415123395
+    },
+    "step300seed450.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 450,
+        "State MSE": 0.07449487542754062,
+        "action MSE": 0.028893558880817106
+    },
+    "step300seed500.pt": {
+        "env_name": "pick",
+        "step": 300,
+        "seed": 500,
+        "State MSE": 0.07463682606672319,
+        "action MSE": 0.028049393157364683
+    },
+    "step400seed0.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 0,
+        "State MSE": 0.2011147604229594,
+        "action MSE": 0.1302655740040574
+    },
+    "step400seed50.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 50,
+        "State MSE": 0.20112867410637808,
+        "action MSE": 0.13180896001647868
+    },
+    "step400seed100.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 100,
+        "State MSE": 0.2021637569991073,
+        "action MSE": 0.13374069439523528
+    },
+    "step400seed150.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 150,
+        "State MSE": 0.19991704993898055,
+        "action MSE": 0.12317379218794394
+    },
+    "step400seed200.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 200,
+        "State MSE": 0.20177272920276096,
+        "action MSE": 0.1246845872545764
+    },
+    "step400seed250.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 250,
+        "State MSE": 0.2001297989641246,
+        "action MSE": 0.12527843002961175
+    },
+    "step400seed300.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 300,
+        "State MSE": 0.20070756146089586,
+        "action MSE": 0.12573758766383833
+    },
+    "step400seed350.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 350,
+        "State MSE": 0.19665239886374003,
+        "action MSE": 0.12459028713625273
+    },
+    "step400seed400.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 400,
+        "State MSE": 0.1996941840915831,
+        "action MSE": 0.12964010198221976
+    },
+    "step400seed450.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 450,
+        "State MSE": 0.20205581208263587,
+        "action MSE": 0.12449290449959101
+    },
+    "step400seed500.pt": {
+        "env_name": "pick",
+        "step": 400,
+        "seed": 500,
+        "State MSE": 0.20306691547804004,
+        "action MSE": 0.12322400677280845
+    },
+    "step500seed0.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 0,
+        "State MSE": 0.5726214500026157,
+        "action MSE": 0.5445631587967289
+    },
+    "step500seed50.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 50,
+        "State MSE": 0.5749602183725028,
+        "action MSE": 0.5351918244291566
+    },
+    "step500seed100.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 100,
+        "State MSE": 0.5721363654150095,
+        "action MSE": 0.5402415574863261
+    },
+    "step500seed150.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 150,
+        "State MSE": 0.5740273560895703,
+        "action MSE": 0.5448255947705373
+    },
+    "step500seed200.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 200,
+        "State MSE": 0.5707616818383794,
+        "action MSE": 0.5422375898949391
+    },
+    "step500seed250.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 250,
+        "State MSE": 0.5754995649056622,
+        "action MSE": 0.5383229694594721
+    },
+    "step500seed300.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 300,
+        "State MSE": 0.5704037217198346,
+        "action MSE": 0.529581001959363
+    },
+    "step500seed350.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 350,
+        "State MSE": 0.5607728090285482,
+        "action MSE": 0.5201794205426745
+    },
+    "step500seed400.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 400,
+        "State MSE": 0.5721033324357013,
+        "action MSE": 0.5350981004197889
+    },
+    "step500seed450.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 450,
+        "State MSE": 0.57719435407627,
+        "action MSE": 0.5305891700767613
+    },
+    "step500seed500.pt": {
+        "env_name": "pick",
+        "step": 500,
+        "seed": 500,
+        "State MSE": 0.575587752874588,
+        "action MSE": 0.525406390407122
+    },
+    "step600seed0.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 0,
+        "State MSE": 1.3380703315945683,
+        "action MSE": 1.431908839638231
+    },
+    "step600seed50.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 50,
+        "State MSE": 1.3422327343195986,
+        "action MSE": 1.4477573126750343
+    },
+    "step600seed100.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 100,
+        "State MSE": 1.359514489219926,
+        "action MSE": 1.4321687793321576
+    },
+    "step600seed150.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 150,
+        "State MSE": 1.3521809709204733,
+        "action MSE": 1.45398586941797
+    },
+    "step600seed200.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 200,
+        "State MSE": 1.3371231915961905,
+        "action MSE": 1.4528123270914521
+    },
+    "step600seed250.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 250,
+        "State MSE": 1.3562143362546366,
+        "action MSE": 1.4483888096312831
+    },
+    "step600seed300.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 300,
+        "State MSE": 1.3376353309714764,
+        "action MSE": 1.4195149209442322
+    },
+    "step600seed350.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 350,
+        "State MSE": 1.3522487812580866,
+        "action MSE": 1.4191075976352567
+    },
+    "step600seed400.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 400,
+        "State MSE": 1.3579451675932595,
+        "action MSE": 1.4198230307272484
+    },
+    "step600seed450.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 450,
+        "State MSE": 1.3616203499936552,
+        "action MSE": 1.4332125864263943
+    },
+    "step600seed500.pt": {
+        "env_name": "pick",
+        "step": 600,
+        "seed": 500,
+        "State MSE": 1.361806071889828,
+        "action MSE": 1.4238987955158406
+    },
+    "step700seed0.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 0,
+        "State MSE": 1.7538175384270756,
+        "action MSE": 1.9155142269927383
+    },
+    "step700seed50.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 50,
+        "State MSE": 1.769416664997857,
+        "action MSE": 1.9559431371253293
+    },
+    "step700seed100.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 100,
+        "State MSE": 1.7771859398324021,
+        "action MSE": 1.9468757570681918
+    },
+    "step700seed150.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 150,
+        "State MSE": 1.7491063011207857,
+        "action MSE": 1.920142996720851
+    },
+    "step700seed200.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 200,
+        "State MSE": 1.7543218135033631,
+        "action MSE": 1.9170079356931833
+    },
+    "step700seed250.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 250,
+        "State MSE": 1.7646034095080558,
+        "action MSE": 1.9256977751614572
+    },
+    "step700seed300.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 300,
+        "State MSE": 1.7430210956598708,
+        "action MSE": 1.8809666410992403
+    },
+    "step700seed350.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 350,
+        "State MSE": 1.766675894098117,
+        "action MSE": 1.9064554355937173
+    },
+    "step700seed400.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 400,
+        "State MSE": 1.7841735763825957,
+        "action MSE": 1.9071611042703314
+    },
+    "step700seed450.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 450,
+        "State MSE": 1.7643174490650373,
+        "action MSE": 1.9347166525597328
+    },
+    "step700seed500.pt": {
+        "env_name": "pick",
+        "step": 700,
+        "seed": 500,
+        "State MSE": 1.777605543832442,
+        "action MSE": 1.9273247952090062
+    },
+    "step800seed0.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 0,
+        "State MSE": 1.8443382361025302,
+        "action MSE": 2.0449241384363392
+    },
+    "step800seed50.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 50,
+        "State MSE": 1.8420736289120516,
+        "action MSE": 2.0250649694655043
+    },
+    "step800seed100.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 100,
+        "State MSE": 1.8473088843020533,
+        "action MSE": 1.9987941315396232
+    },
+    "step800seed150.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 150,
+        "State MSE": 1.8419104468864393,
+        "action MSE": 2.019156884138537
+    },
+    "step800seed200.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 200,
+        "State MSE": 1.8297957777890486,
+        "action MSE": 1.9977345580906625
+    },
+    "step800seed250.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 250,
+        "State MSE": 1.8465947201711612,
+        "action MSE": 2.01971424559806
+    },
+    "step800seed300.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 300,
+        "State MSE": 1.8286685027822667,
+        "action MSE": 1.9942902076871396
+    },
+    "step800seed350.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 350,
+        "State MSE": 1.8295332958222075,
+        "action MSE": 2.0175275210962367
+    },
+    "step800seed400.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 400,
+        "State MSE": 1.8655390244038008,
+        "action MSE": 2.025831771234177
+    },
+    "step800seed450.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 450,
+        "State MSE": 1.828285297026085,
+        "action MSE": 1.997349098483665
+    },
+    "step800seed500.pt": {
+        "env_name": "pick",
+        "step": 800,
+        "seed": 500,
+        "State MSE": 1.888573837037848,
+        "action MSE": 2.0320664191793236
+    },
+    "step900seed0.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 0,
+        "State MSE": 1.8685796682927616,
+        "action MSE": 2.0367849043037465
+    },
+    "step900seed50.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 50,
+        "State MSE": 1.8461017091837129,
+        "action MSE": 2.0521934305925438
+    },
+    "step900seed100.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 100,
+        "State MSE": 1.8667568038697893,
+        "action MSE": 2.015530243329127
+    },
+    "step900seed150.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 150,
+        "State MSE": 1.8573345958216139,
+        "action MSE": 2.0340514153729927
+    },
+    "step900seed200.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 200,
+        "State MSE": 1.851438706762706,
+        "action MSE": 2.0397363170058544
+    },
+    "step900seed250.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 250,
+        "State MSE": 1.8612625804430336,
+        "action MSE": 2.034669011676079
+    },
+    "step900seed300.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 300,
+        "State MSE": 1.8482115639037646,
+        "action MSE": 2.026031941120464
+    },
+    "step900seed350.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 350,
+        "State MSE": 1.8664365739898756,
+        "action MSE": 2.0588822626398664
+    },
+    "step900seed400.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 400,
+        "State MSE": 1.9225446959006094,
+        "action MSE": 2.035493333182166
+    },
+    "step900seed450.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 450,
+        "State MSE": 1.8456753272757052,
+        "action MSE": 2.0175869350459474
+    },
+    "step900seed500.pt": {
+        "env_name": "pick",
+        "step": 900,
+        "seed": 500,
+        "State MSE": 1.9975306334991307,
+        "action MSE": 2.0434996424588325
+    },
+    "step1000seed0.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 0,
+        "State MSE": 1.862210867038729,
+        "action MSE": 2.054108710596343
+    },
+    "step1000seed50.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 50,
+        "State MSE": 1.847846039039138,
+        "action MSE": 2.0420511412847167
+    },
+    "step1000seed100.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 100,
+        "State MSE": 1.8633599712010502,
+        "action MSE": 2.031359185394639
+    },
+    "step1000seed150.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 150,
+        "State MSE": 1.8556868854852189,
+        "action MSE": 2.0496908627337307
+    },
+    "step1000seed200.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 200,
+        "State MSE": 1.8489199715385516,
+        "action MSE": 2.0550482524198754
+    },
+    "step1000seed250.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 250,
+        "State MSE": 1.8569321539608308,
+        "action MSE": 2.0448875232246078
+    },
+    "step1000seed300.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 300,
+        "State MSE": 1.871344730545089,
+        "action MSE": 2.033070035153661
+    },
+    "step1000seed350.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 350,
+        "State MSE": 1.8558004604712304,
+        "action MSE": 2.0548178711463128
+    },
+    "step1000seed400.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 400,
+        "State MSE": 2.2864456920356875,
+        "action MSE": 2.0865307474523607
+    },
+    "step1000seed450.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 450,
+        "State MSE": 1.8545674246951511,
+        "action MSE": 2.020449328255019
+    },
+    "step1000seed500.pt": {
+        "env_name": "pick",
+        "step": 1000,
+        "seed": 500,
+        "State MSE": 3.055592195322276,
+        "action MSE": 2.1910928512664767
+    }
+}
