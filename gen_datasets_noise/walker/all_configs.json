@@ -1,0 +1,79 @@
+{
+    "step1000seed0.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 0,
+        "State MSE": 1.9673599004745483,
+        "action MSE": 1.9361991882324219
+    },
+    "step1000seed50.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 50,
+        "State MSE": 1.970365285873413,
+        "action MSE": 1.9496848583221436
+    },
+    "step1000seed100.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 100,
+        "State MSE": 1.9905273914337158,
+        "action MSE": 1.9506230354309082
+    },
+    "step1000seed150.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 150,
+        "State MSE": 1.9860165119171143,
+        "action MSE": 1.955216884613037
+    },
+    "step1000seed200.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 200,
+        "State MSE": 1.9698857069015503,
+        "action MSE": 1.9565349817276
+    },
+    "step1000seed250.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 250,
+        "State MSE": 1.9643526077270508,
+        "action MSE": 1.9323886632919312
+    },
+    "step1000seed300.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 300,
+        "State MSE": 1.9763339757919312,
+        "action MSE": 1.9334073066711426
+    },
+    "step1000seed350.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 350,
+        "State MSE": 1.9933273792266846,
+        "action MSE": 1.945129156112671
+    },
+    "step1000seed400.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 400,
+        "State MSE": 1.9784400463104248,
+        "action MSE": 1.9748718738555908
+    },
+    "step1000seed450.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 450,
+        "State MSE": 1.980276346206665,
+        "action MSE": 1.9425662755966187
+    },
+    "step1000seed500.pt": {
+        "env_name": "walker",
+        "step": 1000,
+        "seed": 500,
+        "State MSE": 1.9741179943084717,
+        "action MSE": 1.9249643087387085
+    }
+}
