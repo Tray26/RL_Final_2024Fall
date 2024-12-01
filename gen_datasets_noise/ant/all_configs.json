@@ -1,0 +1,79 @@
+{
+    "step1000seed0.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 0,
+        "State MSE": 3.1561428137507552,
+        "action MSE": 1.3478337526321411
+    },
+    "step1000seed50.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 50,
+        "State MSE": 3.1328450036230384,
+        "action MSE": 1.3403499126434326
+    },
+    "step1000seed100.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 100,
+        "State MSE": 3.1814464603814065,
+        "action MSE": 1.356782078742981
+    },
+    "step1000seed150.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 150,
+        "State MSE": 3.149784163842352,
+        "action MSE": 1.3468974828720093
+    },
+    "step1000seed200.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 200,
+        "State MSE": 3.1661615849478335,
+        "action MSE": 1.3514494895935059
+    },
+    "step1000seed250.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 250,
+        "State MSE": 3.162048285691123,
+        "action MSE": 1.3463727235794067
+    },
+    "step1000seed300.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 300,
+        "State MSE": 3.172669394942653,
+        "action MSE": 1.3481744527816772
+    },
+    "step1000seed350.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 350,
+        "State MSE": 3.157617429328842,
+        "action MSE": 1.34879469871521
+    },
+    "step1000seed400.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 400,
+        "State MSE": 3.171811788596591,
+        "action MSE": 1.3480983972549438
+    },
+    "step1000seed450.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 450,
+        "State MSE": 3.185955012273452,
+        "action MSE": 1.3396028280258179
+    },
+    "step1000seed500.pt": {
+        "env_name": "ant",
+        "step": 1000,
+        "seed": 500,
+        "State MSE": 3.1795872874903592,
+        "action MSE": 1.3466856479644775
+    }
+}
