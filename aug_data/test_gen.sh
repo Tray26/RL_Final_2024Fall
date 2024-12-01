@@ -1,9 +1,10 @@
 reconstruct="True"
+# reconstruct="False"
 ddpm_depth=4
 
 # exexpert_data="../expert_datasets"
 # ddpm_model_dir="../data/dm/trained_models/"
-# output_dir="../gen_datasets"
+# output_dir="../gen_datasets_noise"
 
 env_list=("pick" "hand" "halfcheetah" "walker" "ant" "maze")
 # env_list=("pick")

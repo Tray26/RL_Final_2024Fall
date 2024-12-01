@@ -185,6 +185,7 @@ if __name__=="__main__":
     # steps_list = range(100, 1001, 100)
     steps_list = [1, 10, 50]
     steps_list += range(100, 1001, 100)
+    # steps_list = [1000]
     print(seed_list)
     print(steps_list)
     

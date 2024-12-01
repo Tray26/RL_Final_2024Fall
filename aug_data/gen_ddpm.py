@@ -135,7 +135,7 @@ def reconstruct(model, x_0, alphas_bar_sqrt, one_minus_alphas_bar_sqrt, n_steps,
         # print(a, aml)
         # print("Difference between x_T and noise: ", diff)
     else:
-        # print("Generate from pure noise")
+        print("Generate from pure noise")
         x_T = e
     if x_T.dtype == torch.float64:
         x_T = x_T.to(torch.float32)
