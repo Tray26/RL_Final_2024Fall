@@ -47,7 +47,7 @@ class MLPDiffusion(nn.Module):
 
     def forward(self, x, t):
         for idx, embedding_layer in enumerate(self.step_embeddings):
-            t_embedding = embedding_layer(t)
+            t_embedding = embedding_layer(t).squeeze()
             x = self.linears[2 * idx](x)
             x += t_embedding
             x = self.linears[2 * idx + 1](x)

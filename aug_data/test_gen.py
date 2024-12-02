@@ -11,6 +11,7 @@ import d4rl  # Import required to register environments
 import argparse
 
 from gen_ddpm import reconstruct, str2bool, norm_vec, MLPDiffusion, denorm_vec
+from ddim import DDIM
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
@@ -47,6 +48,26 @@ def parse_trajectories(trajectories, state_dim, done):
     return parsed_data
 
 # def torch_mse(prediction, truth, dim=0):
+
+def generate_ddim(model, x_0, n_steps, recon=True, eta=0.0):
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    ddim = DDIM(train_timestep=1000, model=model)
+    t = torch.ones_like(x_0, dtype=torch.long).to(device) * n_steps
+    # print(t)
+    a = ddim.alpha_bars[t].sqrt()
+    # aml = one_minus_alphas_bar_sqrt[t]
+    aml = ddim.noise_params[t]
+    e = torch.randn_like(x_0).to(device)
+    if recon:
+        x_T = x_0 * a + e * aml
+    else:
+        x_T = e
+    if x_T.dtype == torch.float64:
+        x_T = x_T.to(torch.float32)
+    # print(x_0.shape, x_T.shape)
+    x_0 = ddim.ddim_sample(x_T, n_steps, eta=eta, ddim_step=1000)
+    return x_0
+
     
 
 def main(seed_list, steps_list, args, train_steps = 1000, norm=True):
@@ -104,15 +125,24 @@ def main(seed_list, steps_list, args, train_steps = 1000, norm=True):
         for seed in seed_list:
             torch.manual_seed(seed)
             with torch.no_grad():
-                out = reconstruct(
-                    model,
-                    expert_pairs,
-                    alphas_bar_sqrt,
-                    one_minus_alphas_bar_sqrt,
-                    denoise_step-1,
-                    betas[:denoise_step],
-                    recon=args.reconstruct
-                )
+                if args.use_ddim:
+                    out = generate_ddim(
+                        model=model,
+                        x_0=expert_pairs, 
+                        n_steps=denoise_step-1, 
+                        recon=args.reconstruct,
+                        eta=0.0                    )
+                else:
+                    out = reconstruct(
+                        model,
+                        expert_pairs,
+                        alphas_bar_sqrt,
+                        one_minus_alphas_bar_sqrt,
+                        denoise_step-1,
+                        betas[:denoise_step],
+                        recon=args.reconstruct
+                    )
+
                 
                 out = out.cpu().detach()
                 out_states = out[:, :state_dim]
@@ -171,6 +201,7 @@ if __name__=="__main__":
     parser.add_argument('--ddpm_depth', type=int, default=4)
     parser.add_argument('--env_name', type=str, default='maze')
     parser.add_argument('--hidden_dim', type=int, default=1024)
+    parser.add_argument('--use_ddim', type=str2bool, default=False)
     parser.add_argument('--expert_data', type=str, default="../expert_datasets")
     parser.add_argument('--ddpm_model_dir', type=str, default='../data/dm/trained_models/')
     parser.add_argument('--output_dir', type=str, default='../gen_datasets_denorm')
@@ -183,9 +214,9 @@ if __name__=="__main__":
     print(args)
     seed_list=range(0, 501, 50)
     # steps_list = range(100, 1001, 100)
-    steps_list = [1, 10, 50]
-    steps_list += range(100, 1001, 100)
-    # steps_list = [1000]
+    # steps_list = [1, 10, 50]
+    # steps_list += range(100, 1001, 100)
+    steps_list = [1000]
     print(seed_list)
     print(steps_list)
     

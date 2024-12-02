@@ -1,0 +1,79 @@
+{
+    "step1000seed0.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 0,
+        "State MSE": 2.0244147777557373,
+        "action MSE": 2.0938613414764404
+    },
+    "step1000seed50.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 50,
+        "State MSE": 2.057830810546875,
+        "action MSE": 2.105919599533081
+    },
+    "step1000seed100.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 100,
+        "State MSE": 2.0637784004211426,
+        "action MSE": 2.1427035331726074
+    },
+    "step1000seed150.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 150,
+        "State MSE": 2.0249481201171875,
+        "action MSE": 2.1188437938690186
+    },
+    "step1000seed200.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 200,
+        "State MSE": 2.030378580093384,
+        "action MSE": 2.1030750274658203
+    },
+    "step1000seed250.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 250,
+        "State MSE": 2.031146764755249,
+        "action MSE": 2.1243810653686523
+    },
+    "step1000seed300.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 300,
+        "State MSE": 2.0278313159942627,
+        "action MSE": 2.085089683532715
+    },
+    "step1000seed350.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 350,
+        "State MSE": 2.039940357208252,
+        "action MSE": 2.1386468410491943
+    },
+    "step1000seed400.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 400,
+        "State MSE": 2.028179883956909,
+        "action MSE": 2.0989904403686523
+    },
+    "step1000seed450.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 450,
+        "State MSE": 2.008204460144043,
+        "action MSE": 2.080209970474243
+    },
+    "step1000seed500.pt": {
+        "env_name": "halfcheetah",
+        "step": 1000,
+        "seed": 500,
+        "State MSE": 2.030182361602783,
+        "action MSE": 2.0983810424804688
+    }
+}

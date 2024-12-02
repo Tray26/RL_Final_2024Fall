@@ -1,10 +1,11 @@
 reconstruct="True"
 # reconstruct="False"
-ddpm_depth=4
+# ddpm_depth=4
+use_ddim="True"
 
 # exexpert_data="../expert_datasets"
 # ddpm_model_dir="../data/dm/trained_models/"
-# output_dir="../gen_datasets_noise"
+output_dir="../gen_datasets_ddim"
 
 env_list=("pick" "hand" "halfcheetah" "walker" "ant" "maze")
 # env_list=("pick")
@@ -28,7 +29,7 @@ for env_name in "${env_list[@]}"; do
         echo "Unknown environment: $env_name"
         exit 1
     fi
-    python3 test_gen.py --reconstruct $reconstruct --ddpm_depth $ddpm_depth --env_name $env_name --hidden_dim $hidden_dim 
+    python3 test_gen.py --reconstruct $reconstruct --env_name $env_name --hidden_dim $hidden_dim --use_ddim $use_ddim --output_dir $output_dir
 done
 
 # python3 test_gen.py --reconstruct $reconstruct --ddpm_depth $ddpm_depth --env_name $env_name --hidden_dim $hidden_dim 
