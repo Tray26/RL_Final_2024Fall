@@ -8,7 +8,7 @@ from rlf.algos.on_policy.sarsa import SARSA
 from rlf.algos.il.base_il import BaseILAlgo
 from rlf.algos.il.bc import BehavioralCloning
 from rlf.algos.il.dbc import DBC
-# from rlf.algos.il.diff_policy import DiffPolicy
+from rlf.algos.il.diff_policy import DiffPolicy
 # from rlf.algos.il.ibc import IBC
 # from rlf.algos.il.ae_bc import Ae_bc
 # from rlf.algos.il.eng_bc import Eng_bc
