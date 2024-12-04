@@ -11,7 +11,7 @@ parameters:
   depth:
     value: 2 
   hidden-dim:
-    value: 750 
+    value: 1200 
   env-name:
     value: FetchPickAndPlaceDiffHoldout-v0 
   lr:
