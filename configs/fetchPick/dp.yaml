@@ -7,9 +7,11 @@ parameters:
   alg:
     value: dp 
   bc-num-epochs:
-    value: 15000  
+    value: 15000
+  bc-state-norm:
+    value: True 
   depth:
-    value: 2 
+    value: 4 # 2 
   hidden-dim:
     value: 1200 
   env-name:
