@@ -24,3 +24,7 @@ def norm_vec(x, mean, std):
 def sigmoid_beta_schedule(timesteps, start=0.0001, end=0.02):
     betas = torch.linspace(-6, 6, timesteps)
     return torch.sigmoid(betas) * (end - start) + start
+
+def str2bool(v):
+    return v.lower() == "true"
+
