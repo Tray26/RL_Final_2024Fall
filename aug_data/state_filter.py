@@ -45,7 +45,7 @@ def main(args):
     # print(min_mse_values.shape)
     
     threshold = torch.quantile(min_mse_values, (100 - proportion)/100)  # 計算 80 百分位數，選出最大的 20%
-    top_indices = (min_mse_values >= threshold).nonzero(as_tuple=True)[0]
+    top_indices = (min_mse_values <= threshold).nonzero(as_tuple=True)[0]
     
     top_obs = gen_obs[top_indices]
     top_act = gen_act[top_indices]
@@ -78,7 +78,7 @@ if __name__=="__main__":
     parser.add_argument('--env_name', type=str, default='pick')
     parser.add_argument('--expert_data_dir', type=str, default="../expert_datasets")
     parser.add_argument('--gen_data_dir', type=str, default='../gen_datasets_denorm')
-    parser.add_argument('--filter_data_dir', type=str, default='../filtered_data')
+    parser.add_argument('--filter_data_dir', type=str, default='../gen_datasets_filter_near')
     parser.add_argument('--gen_steps', type=int, default=100)
     parser.add_argument('--proportion', type=int, default=20)
 
