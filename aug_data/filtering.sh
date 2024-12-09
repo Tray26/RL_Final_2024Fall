@@ -1,6 +1,6 @@
 env_list=("pick" "hand" "halfcheetah" "walker" "ant" "maze")
 gen_step_list=(10 100 1000)
-proportions=(20 40 60 80)
+proportions=(25 50 75)
 
 for env_name in "${env_list[@]}"; do
     for gen_step in "${gen_step_list[@]}"; do
