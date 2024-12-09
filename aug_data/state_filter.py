@@ -44,7 +44,7 @@ def main(args):
     min_mse_values, _ = mse_values.min(dim=1)
     # print(min_mse_values.shape)
     
-    threshold = torch.quantile(min_mse_values, (100 - proportion)/100)  # 計算 80 百分位數，選出最大的 20%
+    threshold = torch.quantile(min_mse_values, (proportion)/100)  # 計算 80 百分位數，選出最大的 20%
     top_indices = (min_mse_values <= threshold).nonzero(as_tuple=True)[0]
     
     top_obs = gen_obs[top_indices]
