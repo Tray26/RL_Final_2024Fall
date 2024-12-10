@@ -21,10 +21,20 @@ def main(args):
     filter_data_dir = args.filter_data_dir
     gen_steps = args.gen_steps
     proportion = args.proportion
+    use_mean = args.use_mean
+    filter_mode = args.filter_mode
+    
+    if use_mean:
+        filter_data_dir = f"{filter_data_dir}_{filter_mode}_mean"
+    else:
+        filter_data_dir = f"{filter_data_dir}_{filter_mode}"
+        
     
     expert_path = os.path.join(expert_data_dir, f"{env_name}.pt")
     gen_path = os.path.join(gen_data_dir, env_name, 'data', f"step{gen_steps}seed0_denorm.pt")
     filtered_path = os.path.join(filter_data_dir, env_name, f"step{gen_steps}_{proportion}.pt")
+    
+    # print(filtered_path)
     
     os.makedirs(os.path.join(filter_data_dir, env_name), exist_ok=True)
     expert_data = torch.load(expert_path)
@@ -41,11 +51,20 @@ def main(args):
     
     mse_values = calculate_mse(norm_gen_obs, norm_exp_obs)
     # print(mse_values.shape)
-    min_mse_values, _ = mse_values.min(dim=1)
-    # print(min_mse_values.shape)
-    
-    threshold = torch.quantile(min_mse_values, (proportion)/100)  # 計算 80 百分位數，選出最大的 20%
-    top_indices = (min_mse_values <= threshold).nonzero(as_tuple=True)[0]
+    if use_mean:
+        mse_values = mse_values.mean(dim=1)
+    else:
+        mse_values, _ = mse_values.min(dim=1)
+        
+    # print(mse_values.shape)
+    if filter_mode == "near":
+        threshold = torch.quantile(mse_values, (proportion)/100)
+        top_indices = (mse_values <= threshold).nonzero(as_tuple=True)[0]
+    else:
+        threshold = torch.quantile(mse_values, (100 - proportion)/100)
+        top_indices = (mse_values >= threshold).nonzero(as_tuple=True)[0]
+        
+    # print(proportion, top_indices.shape)
     
     top_obs = gen_obs[top_indices]
     top_act = gen_act[top_indices]
@@ -78,9 +97,13 @@ if __name__=="__main__":
     parser.add_argument('--env_name', type=str, default='pick')
     parser.add_argument('--expert_data_dir', type=str, default="../expert_datasets")
     parser.add_argument('--gen_data_dir', type=str, default='../gen_datasets_denorm')
-    parser.add_argument('--filter_data_dir', type=str, default='../gen_datasets_filter_near')
+    parser.add_argument('--filter_data_dir', type=str, default='../gen_datasets_filter')
     parser.add_argument('--gen_steps', type=int, default=100)
     parser.add_argument('--proportion', type=int, default=20)
+    parser.add_argument('--use_mean', type=str2bool, default=True)
+    parser.add_argument('--filter_mode', type=str, default="near")
+    
+    
 
     args = parser.parse_args()
     
