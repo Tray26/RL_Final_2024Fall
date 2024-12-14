@@ -1,4 +1,4 @@
-env_list=("pick" "hand" "halfcheetah" "walker" "ant" "maze")
+env_list=("pick")
 gen_step_list=(10 100 1000)
 proportions=(25 50 75)
 filter_mode=$1
