@@ -1,0 +1,33 @@
+project: 'dbc-reproduce'
+program: dbc/main_dp.py
+method: grid
+name: Maze-dp
+
+parameters:
+  alg:
+    value: dp 
+  bc-num-epochs:
+    value: 20000 
+  bc-state-norm:
+    value: True 
+  depth:
+    value: 4  
+  hidden-dim:
+    value: 256 
+  env-name:
+    value: maze2d-medium-v2 
+  lr:
+    value: 2e-4 
+  traj-load-path:
+    value: expert_datasets/maze.pt
+  save-dir:
+    value: data/trained_models
+  seed:
+    values: [1] # [1, 2, 3]
+  prefix:
+    value: maze_dp # set name of folder that saves checkpoints, name would be save-dir/env-name/prefix
+  # load-file:
+  #   value: data/trained_models/dp/timesteps_cb/1000/maze2d-medium-v2/debug/model_5780000.pt
+  # eval-only:
+  #   value: True
+  
