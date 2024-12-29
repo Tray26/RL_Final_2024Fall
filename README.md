@@ -47,3 +47,7 @@ You can modify the arguments in **configs** folder for BC and DP, including data
 
 ### Data augmentation
 Run `python aug_data/combine_pts.py --input1 [file_name1 you want to combine] --input2 [file_name2] --output [file_name_out]`
+
+### Checkpoints
+*    Checkpoints of diffusion model for data generation are in `data/dm/trained_models`.
+*    Checkpoints of DP training results are also provided in `data/dm/trained_models`. 
