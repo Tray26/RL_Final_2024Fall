@@ -1,5 +1,5 @@
 # 2024 Fall Reinforcement Learning Final Project
-## Title: Behavior Cloning with Diffusion Data Augmentation
+## Topic: Behavior Cloning with Diffusion Data Augmentation
 
 This code is based on the paper <a href="https://arxiv.org/abs/2302.13335" title="Diffusion Model-Augmented Behavioral Cloning">Diffusion Model-Augmented Behavioral Cloning </a>(ICML2024).
 
@@ -30,7 +30,7 @@ You may also need to install mujoco. Please check the website: <a href="https://
     * Fetch Pick: `bash ./wandb.sh./configs/fetchPick/dp.yaml`
     * Walker: `bash ./wandb.sh ./configs/walker/dp.yaml`
 
-    You can modify the arguments in **configs** folder for BC and DP, including dataset file, checkpoints, evaluation, etc. settings.
+    You can modify the arguments in **configs** folder for BC and DP, including dataset files, checkpoints, evaluation, etc. settings.
 
 ### Data generation
 * For generation based on timesteps, run `bash aug_data/generate.sh`
