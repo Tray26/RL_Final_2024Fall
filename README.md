@@ -1,5 +1,5 @@
 # 2024 Fall Reinforcement Learning Final Project
-## Topic: Behavior Cloning with Diffusion Data Augmentation
+## Title: Behavior Cloning with Diffusion Data Augmentation
 
 This code is based on the paper <a href="https://arxiv.org/abs/2302.13335" title="Diffusion Model-Augmented Behavioral Cloning">Diffusion Model-Augmented Behavioral Cloning </a>(ICML2024).
 
@@ -30,13 +30,20 @@ You may also need to install mujoco. Please check the website: <a href="https://
     * Fetch Pick: `bash ./wandb.sh./configs/fetchPick/dp.yaml`
     * Walker: `bash ./wandb.sh ./configs/walker/dp.yaml`
 
-    You can modify the arguments in **configs** folder for BC and DP, including dataset files, checkpoints, evaluation, etc. settings.
-    25%, 50%, 75%, 100% expert data are all in expert_datasets directory.
+You can modify the arguments in **configs** folder for BC and DP, including dataset file, checkpoints, evaluation, etc. settings. For instance, 
+* To train the policy, you may need to set **traj-load-path** to correspoding path. 
+    * 25%, 50%, 75%, 100% expert data are all in `expert_datasets` directory.
+    * Generated data with different steps are in `gen_datasets_denorm` directory.
+    * Generated data with filter are in `gen_datasets_filter_far_mean` (for least similar to expert)and `gen_datasets_filter_near_mean`(for most similar to expert) directories. 
+* To evaluate, you may need to:
+    * Set **eval-only** to True.
+    * Set **seed** to [1,2,3,...] to evaluate multiple times.
+    * Set **load-file** to the path of the desired model checkpoint.
+    
 
 ### Data generation
 * For generation based on timesteps, run `bash aug_data/generate.sh`
 * For generation based on filter, run `bash aug_data/filtering.sh`
 
-
-### Reproduce
-
+### Data augmentation
+Run `python aug_data/combine_pts.py --input1 [file_name1 you want to combine] --input2 [file_name2] --output [file_name_out]`
