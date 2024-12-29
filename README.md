@@ -31,6 +31,7 @@ You may also need to install mujoco. Please check the website: <a href="https://
     * Walker: `bash ./wandb.sh ./configs/walker/dp.yaml`
 
     You can modify the arguments in **configs** folder for BC and DP, including dataset files, checkpoints, evaluation, etc. settings.
+    25%, 50%, 75%, 100% expert data are all in expert_datasets directory.
 
 ### Data generation
 * For generation based on timesteps, run `bash aug_data/generate.sh`
